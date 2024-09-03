@@ -34,7 +34,7 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
 public class CaoLiu extends Spider {
-
+// https://www.woaicle442.top/ 20240904
     private static final String siteUrl = "https://cl2404a55d.top";
     private static final String cateUrl = siteUrl + "/thread.php?fid=";
     private static final String detailUrl = siteUrl + "/video.php?tid=";
